@@ -6,7 +6,7 @@
 				<livery>
 					<name type="string">Irish Air Corps - 277</name>
 					 <index type="int">1</index>
-					  <texture>IrishAirCorps.png</texture>
+					  <texture>Liveries/IrishAirCorps.png</texture>
 				</livery>
 				<aw139>
 				<hide-gsdi>true</hide-gsdi>
